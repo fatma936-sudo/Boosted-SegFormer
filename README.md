@@ -1,3 +1,2 @@
 # Boosted-SegFormer
-
-Code will be available soon....
+Code available upon request,  or upon acceptance of pape
