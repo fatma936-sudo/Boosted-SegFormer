@@ -1,2 +1,2 @@
 # Boosted-SegFormer
-Code available upon acceptance of paper
+Code available upon request,  or upon acceptance of paper
